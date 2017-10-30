@@ -6,8 +6,8 @@ setup(
   description = 'Access Fortigate REST API in python',
   author = 'Original author David Chayla and Pypi maintainer AdmiralSpark',
   author_email = 'null',
-  url = 'https://github.com/DavidChayla/FortigateApi', 
-  download_url = 'https://github.com/DavidChayla/FortigateApi/archive/0.1.tar.gz', 
+  url = 'https://github.com/admiralspark/FortigateApi', 
+  download_url = 'https://github.com/admiralspark/FortigateApi/archive/1.11.tar.gz', 
   keywords = ['fortigate', 'REST', 'network'],
   classifiers = [],
 )
